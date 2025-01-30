@@ -28,19 +28,7 @@ This project allows users to quickly verify the functionality of an IC741 by fol
 | **Test Pin (A0)**    | Used to apply test voltage                      |
 | **IC741 Power**      | Vcc (+) to 5V, GND (-) to GND                   |
 
----
 
-## How It Works 🔧
-1. Connect the circuit according to the selected amplifier mode.  
-2. Open the Serial Monitor (Baud Rate: 9600).  
-3. Select a mode by entering:  
-   - **1** → Inverting Amplifier Test 🔄  
-   - **2** → Non-Inverting Amplifier Test ➕  
-   - **3** → Voltage Follower Test ⬅️  
-4. Follow the on-screen instructions to make connections.  
-5. Type 'Y' when ready to start the test.  
-6. The system will apply a test voltage and measure the output.  
-7. The Serial Monitor will indicate whether the IC741 is **GOOD** ✅ or **BAD** ❌.
 
 ---
 
